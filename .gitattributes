@@ -1,2 +1,4 @@
 informacion filter=lfs diff=lfs merge=lfs -text
 redes.mp4 filter=lfs diff=lfs merge=lfs -text
+LOST filter=lfs diff=lfs merge=lfs -text
+ARK.mp4 filter=lfs diff=lfs merge=lfs -text
