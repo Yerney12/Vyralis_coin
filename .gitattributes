@@ -1,0 +1,2 @@
+informacion filter=lfs diff=lfs merge=lfs -text
+redes.mp4 filter=lfs diff=lfs merge=lfs -text
